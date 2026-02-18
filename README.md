@@ -47,7 +47,8 @@ The dashboard provides a comprehensive view of revenue trends, order distributio
 ---
 
 ## 📷 Dashboard Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da7f7ae3-c80c-4643-a830-541df1784636" />
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/f04b0656-509d-4b23-9686-7c146c960074" />
+
 
 ---
 
